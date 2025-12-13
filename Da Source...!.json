@@ -3,31 +3,76 @@
   "subtitle": "We're so back",
   "description": "A repository of apps Charles uses when he feels like updating them.",
   "iconURL": "https://i.imgur.com/H6zMfed.png",
-  "website": "",
+  "website": "https://www.charlesso.com",
   "patreonURL": "",
   "tintColor": "#220fce",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/H6zMfed.png",
   "apps": [
     {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "marketplaceID": "",
+      "developerName": "Instagram, Inc.",
+      "subtitle": "Videos, creators & friends",
+      "localizedDescription": "Source: https://discord.gg/VNPf5RQG",
+      "iconURL": "https://i.imgur.com/PRGYq95.png",
+      "tintColor": "#8b17fc",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "407.0.0-5.0Hotfix",
+          "date": "2025-12-13T15:54:00-08:00",
+          "localizedDescription": null,
+          "downloadURL": "https://www.dropbox.com/scl/fi/hab0vgug4asr5yn8jqwj2/Theta5.0Hotfix_407.0.0.ipa?rlkey=yp3n0lsb1cewj8m6ibirw5ol1&st=u6gu0ol2&dl=1",
+          "size": 247400000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "marketplaceID": "",
       "developerName": "Meta Platforms, Inc.",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "Connections starts here",
+      "localizedDescription": "Source: https://github.com/dayanch96/Glow",
       "iconURL": "https://i.imgur.com/LoHHN1D.png",
       "tintColor": "#0c64fc",
       "category": "social",
       "screenshots": [],
       "versions": [
         {
+          "version": "542.0.0-1.3.1",
+          "date": "2025-12-13T09:55:00-08:00",
+          "localizedDescription": null,
           "downloadURL": "https://files.catbox.moe/n18ypt.ipa",
           "size": 170900000,
-          "version": "542.0.0-1.3.1",
-          "buildVersion": null,
-          "date": "2025-12-12T17:55:00-08:00",
-          "localizedDescription": null,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -63,20 +108,20 @@
       "bundleIdentifier": "tv.twitch",
       "marketplaceID": "",
       "developerName": "Twitch Interactive, Inc.",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "Stream, Watch, Chat. Live.",
+      "localizedDescription": "Source: https://github.com/level3tjg/TwitchAdBlock",
       "iconURL": "https://i.imgur.com/6IKPkjl.png",
       "tintColor": "#9444fc",
       "category": "photo-video",
       "screenshots": [],
       "versions": [
         {
+          "version": "19.4-0.1.5-STS",
+          "date": "2025-12-13T09:54:00-08:00",
+          "localizedDescription": null,
           "downloadURL": "https://files.catbox.moe/jlsrb4.ipa",
           "size": 87700000,
-          "version": "19.4-0.1.5-STS",
-          "buildVersion": null,
-          "date": "2025-12-12T17:54:00-08:00",
-          "localizedDescription": null,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -97,20 +142,20 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "marketplaceID": "",
       "developerName": "Google",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "Videos, Music, and Live Streams",
+      "localizedDescription": "Source: https://github.com/dayanch96/YTLite",
       "iconURL": "https://i.imgur.com/myR4KQ4.png",
       "tintColor": "#fc0434",
       "category": "photo-video",
       "screenshots": [],
       "versions": [
         {
+          "version": "20.49.5-5.2b4",
+          "date": "2025-12-13T09:52:00-08:00",
+          "localizedDescription": null,
           "downloadURL": "https://files.catbox.moe/d9pl2i.ipa",
           "size": 127200000,
-          "version": "20.49.5-5.2b4",
-          "buildVersion": null,
-          "date": "2025-12-12T17:52:00-08:00",
-          "localizedDescription": null,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
