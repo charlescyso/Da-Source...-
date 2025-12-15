@@ -150,6 +150,15 @@
       "screenshots": [],
       "versions": [
         {
+          "downloadURL": "https://files.catbox.moe/xxk77k.ipa",
+          "size": 124400000,
+          "version": "20.50.6-5.2b4",
+          "buildVersion": null,
+          "date": "2025-12-15T08:03:00-08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
           "version": "20.49.5-5.2b4",
           "date": "2025-12-13T09:52:00-08:00",
           "localizedDescription": null,
@@ -176,5 +185,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Dec 15 Update",
+      "identifier": "news_ldtq9nnekb",
+      "caption": "Updated YouTube from 20.49.5 to 20.50.6!",
+      "date": "2025-12-15T00:04",
+      "tintColor": "#220fce",
+      "imageURL": "",
+      "notify": true,
+      "url": "I dunno what goes here so let’s see",
+      "appID": "com.google.ios.youtube"
+    }
+  ]
 }
