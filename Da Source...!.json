@@ -150,6 +150,15 @@
       "screenshots": [],
       "versions": [
         {
+          "downloadURL": "https://files.catbox.moe/wkqi2g.ipa",
+          "size": 124400000,
+          "version": "20.50.9-5.2b4",
+          "buildVersion": "3",
+          "date": "2025-12-16T00:51:00-08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
           "version": "20.50.6-5.2b4",
           "date": "2025-12-15T16:03:00-08:00",
           "localizedDescription": null,
