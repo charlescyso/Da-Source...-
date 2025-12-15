@@ -185,17 +185,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "Dec 15 Update",
-      "identifier": "news_ldtq9nnekb",
-      "caption": "Updated YouTube from 20.49.5 to 20.50.6!",
-      "date": "2025-12-15T00:04",
-      "tintColor": "#220fce",
-      "imageURL": "",
-      "notify": true,
-      "url": "I dunno what goes here so let’s see",
-      "appID": "com.google.ios.youtube"
-    }
-  ]
+  "news": []
 }
