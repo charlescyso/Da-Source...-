@@ -55,55 +55,6 @@
       "patreon": {}
     },
     {
-      "name": "Facebook",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "marketplaceID": "",
-      "developerName": "Meta Platforms, Inc.",
-      "subtitle": "Connections starts here",
-      "localizedDescription": "Source: https://github.com/dayanch96/Glow",
-      "iconURL": "https://i.imgur.com/LoHHN1D.png",
-      "tintColor": "#0c64fc",
-      "category": "social",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "542.0.0-1.3.1",
-          "date": "2025-12-13T17:55:00-08:00",
-          "localizedDescription": null,
-          "downloadURL": "https://files.catbox.moe/n18ypt.ipa",
-          "size": 170900000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Facebook.",
-          "NSContactsUsageDescription": "Allowing access to your address book helps you see the contacts you can choose to add and helps us provide a better service.",
-          "NSSiriUsageDescription": "This will let Siri help you look for photos on Facebook",
-          "NSPhotoLibraryUsageDescription": "Facebook uses access to your photos to do things like help you share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
-          "NSSpeechRecognitionUsageDescription": "Facebook will use speech recognition to detect your confirmation.",
-          "NSCalendarsFullAccessUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
-          "NSPrincipalClass": "FBApplication",
-          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
-          "NSUserTrackingUsageDescription": "This helps Facebook personalize ads we show you.",
-          "NSBluetoothAlwaysUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
-          "NSPhotoLibraryAddUsageDescription": "Facebook uses access to your photos to do things like help you save images to your device, share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
-          "NSCameraUsageDescription": "Facebook uses access to your camera to do things like help you take and share photos, record videos, and use visual effects.\n\nYou can always change this in your device settings.",
-          "NSMicrophoneUsageDescription": "Facebook uses access to your microphone to do things like help you record audio, identify songs, search with your voice and use audio effects.\n\nYou can always change this in your device settings.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
-          "NSAppleMusicUsageDescription": "Facebook uses access to your media library to do things like help you play music and other audio from your device, and to save audio to your device.",
-          "NSMotionUsageDescription": "Facebook uses this to provide more relevant and personalized experiences.",
-          "NSBluetoothPeripheralUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
-          "NSCalendarsUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
-          "NSLocalNetworkUsageDescription": "Facebook uses your local network so you can do things like find and connect to devices and cast videos to TV.",
-          "NSLocationWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
       "marketplaceID": "",
@@ -136,63 +87,19 @@
         }
       },
       "patreon": {}
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
-      "developerName": "Google",
-      "subtitle": "Videos, Music, and Live Streams",
-      "localizedDescription": "Source: https://github.com/dayanch96/YTLite",
-      "iconURL": "https://i.imgur.com/myR4KQ4.png",
-      "tintColor": "#fc0434",
-      "category": "photo-video",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://files.catbox.moe/wkqi2g.ipa",
-          "size": 124400000,
-          "version": "20.50.9-5.2b4",
-          "buildVersion": "3",
-          "date": "2025-12-16T00:51:00-08:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        },
-        {
-          "version": "20.50.6-5.2b4",
-          "date": "2025-12-15T16:03:00-08:00",
-          "localizedDescription": null,
-          "downloadURL": "https://files.catbox.moe/xxk77k.ipa",
-          "size": 124400000,
-          "buildVersion": "2",
-          "minOSVersion": null
-        },
-        {
-          "version": "20.49.5-5.2b4",
-          "date": "2025-12-13T17:52:00-08:00",
-          "localizedDescription": null,
-          "downloadURL": "https://files.catbox.moe/d9pl2i.ipa",
-          "size": 127200000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
-        }
-      },
-      "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "App list update",
+      "identifier": "news_fi92ptnvy4",
+      "caption": "Removed Facebook and Instagram. Use Dan's Workshop source for those apps: https://github.com/dvntm0/AltStore/raw/refs/heads/main/feather.json",
+      "date": "2025-12-19T09:11",
+      "tintColor": "#220fce",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/feather.json",
+      "appID": null
+    }
+  ]
 }
