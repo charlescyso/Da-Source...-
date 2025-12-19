@@ -3,8 +3,6 @@
   "subtitle": "We're so back...!",
   "description": "A repository of apps I currently use.",
   "iconURL": "https://i.imgur.com/H6zMfed.png",
-  "website": "https://say.sike",
-  "patreonURL": "https://patreon.com/sike",
   "tintColor": "#220fce",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/H6zMfed.png",
@@ -12,7 +10,6 @@
     {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "marketplaceID": "67",
       "developerName": "Instagram, Inc.",
       "subtitle": "Videos, creators & friends",
       "localizedDescription": "Source: https://discord.gg/VNPf5RQG",
@@ -23,12 +20,11 @@
       "versions": [
         {
           "version": "407.0.0-5.0Hotfix",
-          "date": "2025-12-14T15:54:00-08:00",
-          "localizedDescription": "type shit",
+          "date": "2025-12-14T23:54:00-08:00",
+          "localizedDescription": "",
           "downloadURL": "https://www.dropbox.com/scl/fi/hab0vgug4asr5yn8jqwj2/Theta5.0Hotfix_407.0.0.ipa?rlkey=yp3n0lsb1cewj8m6ibirw5ol1&st=u6gu0ol2&dl=1",
           "size": 247400000,
-          "buildVersion": "1",
-          "minOSVersion": null
+          "buildVersion": "1"
         }
       ],
       "appPermissions": {
@@ -57,7 +53,6 @@
     {
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
-      "marketplaceID": "420",
       "developerName": "Twitch Interactive, Inc.",
       "subtitle": "Stream, Watch, Chat. Live.",
       "localizedDescription": "Source: https://github.com/level3tjg/TwitchAdBlock",
@@ -68,12 +63,11 @@
       "versions": [
         {
           "version": "19.4-0.1.5-STS",
-          "date": "2025-12-14T01:54:00-08:00",
-          "localizedDescription": "type shit",
+          "date": "2025-12-14T09:54:00-08:00",
+          "localizedDescription": "",
           "downloadURL": "https://files.catbox.moe/jlsrb4.ipa",
           "size": 87700000,
-          "buildVersion": "1",
-          "minOSVersion": null
+          "buildVersion": "1"
         }
       ],
       "appPermissions": {
