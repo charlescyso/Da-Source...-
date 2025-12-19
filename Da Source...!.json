@@ -86,14 +86,12 @@
   "news": [
     {
       "title": "About",
-      "identifier": "new_feature",
+      "identifier": "about",
       "caption": "My personal repository for the following apps and associated tweaks:\n\n- Instagram (injected with Theta)\n\n- Twitch (injected with TwitchAdBlock)",
       "date": "2025-12-19T08:00:00-08:00",
       "tintColor": "#220fce",
       "imageURL": "https://raw.githubusercontent.com/charlescyso/Da-Source...-/refs/heads/main/header.png",
-      "notify": true,
-      "url": [],
-      "appID": []
+      "notify": true
     }
   ]
 }
