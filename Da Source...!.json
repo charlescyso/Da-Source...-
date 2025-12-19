@@ -83,5 +83,13 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "App list update",
+      "identifier": "app_list_update_2025_12_19",
+      "caption": "Removed YouTube and Facebook",
+      "date": "2025-12-19T13:20:00-08:00",
+      "notify": true
+    }
+  ]
 }
