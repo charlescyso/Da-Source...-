@@ -16,7 +16,11 @@
       "iconURL": "https://i.imgur.com/PRGYq95.png",
       "tintColor": "#ff4061",
       "category": "photo-video",
-      "screenshots": [],
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/charlescyso/Da-Source...-/refs/heads/main/instagram_screenshot.PNG"
+        }
+      ],
       "versions": [
         {
           "version": "407.0.0-5.0Hotfix",
@@ -59,7 +63,11 @@
       "iconURL": "https://i.imgur.com/6IKPkjl.png",
       "tintColor": "#9444fc",
       "category": "photo-video",
-      "screenshots": [],
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/charlescyso/Da-Source...-/refs/heads/main/twitch_screenshot.PNG"
+        }
+      ],
       "versions": [
         {
           "version": "19.4-0.1.5-STS",
@@ -85,7 +93,7 @@
   ],
   "news": [
     {
-      "title": "About",
+      "title": "About Da Source...!",
       "identifier": "about",
       "caption": "My personal repository for the following apps and associated tweaks:\n\n- Instagram (injected with Theta)\n\n- Twitch (injected with TwitchAdBlock)",
       "date": "2025-12-19T08:00:00-08:00",
