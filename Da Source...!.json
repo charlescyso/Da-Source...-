@@ -12,7 +12,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
       "subtitle": "Videos, creators & friends",
-      "localizedDescription": "Source: https://discord.gg/VNPf5RQG",
+      "localizedDescription": "Injected with Theta.\n\nSource: https://discord.gg/VNPf5RQG",
       "iconURL": "https://i.imgur.com/PRGYq95.png",
       "tintColor": "#ff4061",
       "category": "photo-video",
@@ -21,7 +21,7 @@
         {
           "version": "407.0.0-5.0Hotfix",
           "date": "2025-12-14T23:54:00-08:00",
-          "localizedDescription": "",
+          "localizedDescription": "First release",
           "downloadURL": "https://www.dropbox.com/scl/fi/hab0vgug4asr5yn8jqwj2/Theta5.0Hotfix_407.0.0.ipa?rlkey=yp3n0lsb1cewj8m6ibirw5ol1&st=u6gu0ol2&dl=1",
           "size": 247400000,
           "buildVersion": "1"
@@ -55,7 +55,7 @@
       "bundleIdentifier": "tv.twitch",
       "developerName": "Twitch Interactive, Inc.",
       "subtitle": "Stream, Watch, Chat. Live.",
-      "localizedDescription": "Source: https://github.com/level3tjg/TwitchAdBlock",
+      "localizedDescription": "Injected with TwitchAdBlock.\n\nSource: https://github.com/level3tjg/TwitchAdBlock",
       "iconURL": "https://i.imgur.com/6IKPkjl.png",
       "tintColor": "#9444fc",
       "category": "photo-video",
@@ -64,7 +64,7 @@
         {
           "version": "19.4-0.1.5-STS",
           "date": "2025-12-14T09:54:00-08:00",
-          "localizedDescription": "",
+          "localizedDescription": "First release",
           "downloadURL": "https://files.catbox.moe/jlsrb4.ipa",
           "size": 87700000,
           "buildVersion": "1"
@@ -85,12 +85,15 @@
   ],
   "news": [
     {
-      "title": "App list update",
-      "identifier": "app_list_update_2025_12_19",
-      "caption": "Removed YouTube and Facebook",
-      "date": "2025-12-19T13:20:00-08:00",
+      "title": "About",
+      "identifier": "new_feature",
+      "caption": "My personal repository for the following apps and associated tweaks:\n\n- Instagram (injected with Theta)\n\n- Twitch (injected with TwitchAdBlock)",
+      "date": "2025-12-19T08:00:00-08:00",
+      "tintColor": "#220fce",
+      "imageURL": "https://raw.githubusercontent.com/charlescyso/Da-Source...-/refs/heads/main/header.png",
       "notify": true,
-      "imageURL": "https://raw.githubusercontent.com/charlescyso/Da-Source...-/refs/heads/main/header.png"
+      "url": [],
+      "appID": []
     }
   ]
 }
