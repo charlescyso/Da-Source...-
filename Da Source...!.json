@@ -1,9 +1,9 @@
 {
   "name": "Da Source...!",
-  "subtitle": "We're so back",
-  "description": "A repository of apps Charles uses when he feels like updating them.",
+  "subtitle": "We're so back...!",
+  "description": "A repository of apps I currently use.",
   "iconURL": "https://i.imgur.com/H6zMfed.png",
-  "website": "https://www.charlesso.com",
+  "website": "",
   "patreonURL": "",
   "tintColor": "#220fce",
   "featuredApps": [],
@@ -17,13 +17,13 @@
       "subtitle": "Videos, creators & friends",
       "localizedDescription": "Source: https://discord.gg/VNPf5RQG",
       "iconURL": "https://i.imgur.com/PRGYq95.png",
-      "tintColor": "#8b17fc",
+      "tintColor": "#ff4061",
       "category": "photo-video",
       "screenshots": [],
       "versions": [
         {
           "version": "407.0.0-5.0Hotfix",
-          "date": "2025-12-13T23:54:00-08:00",
+          "date": "2025-12-14T07:54:00-08:00",
           "localizedDescription": null,
           "downloadURL": "https://www.dropbox.com/scl/fi/hab0vgug4asr5yn8jqwj2/Theta5.0Hotfix_407.0.0.ipa?rlkey=yp3n0lsb1cewj8m6ibirw5ol1&st=u6gu0ol2&dl=1",
           "size": 247400000,
