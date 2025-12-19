@@ -89,17 +89,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "App list update",
-      "identifier": "news_fi92ptnvy4",
-      "caption": "Removed Facebook and Instagram. Use Dan's Workshop source for those apps: https://github.com/dvntm0/AltStore/raw/refs/heads/main/feather.json",
-      "date": "2025-12-19T09:11",
-      "tintColor": "#220fce",
-      "imageURL": "",
-      "notify": true,
-      "url": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/feather.json",
-      "appID": null
-    }
-  ]
+  "news": []
 }
